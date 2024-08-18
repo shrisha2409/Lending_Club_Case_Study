@@ -28,8 +28,8 @@
 
 
 ## Technologies Used
-- #### Python version 3.11.5 | packaged by Anaconda,
-- #### Pandas 2.0.3 and   NumPy 1.24.3 version for data manipulation. 
+- #### Python version 3.11.5 packaged by Anaconda
+- #### Pandas 2.0.3 and NumPy 1.24.3 version for data manipulation. 
 - #### Matplotlib 3.5.1 and Seaborn 0.11.2 for data visualization.
 - #### Jupyter Lab Notebook 3.6.3 as the development environment.
 

@@ -1,4 +1,4 @@
-# Lending_Club_Case_Study
+# Lending Club Case Study
 > Outline a brief description of your project.
 
 
@@ -28,10 +28,10 @@
 
 
 ## Technologies Used
-- ### Python version 3.11.5 | packaged by Anaconda,
-- ### Pandas 2.0.3 and   NumPy 1.24.3 version for data manipulation. 
-- ### Matplotlib 3.5.1 and Seaborn 0.11.2 for data visualization.
-- ### Jupyter Lab Notebook 3.6.3 as the development environment.
+- #### Python version 3.11.5 | packaged by Anaconda,
+- #### Pandas 2.0.3 and   NumPy 1.24.3 version for data manipulation. 
+- #### Matplotlib 3.5.1 and Seaborn 0.11.2 for data visualization.
+- #### Jupyter Lab Notebook 3.6.3 as the development environment.
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 ## Acknowledgements
@@ -42,8 +42,8 @@ Give credit here.
 
 
 ## Team
-Shrisha Bhat H
-Shiva Prasad
+- Shrisha Bhat H
+- Shiva Prasad
 
 
 <!-- Optional -->
